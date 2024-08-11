@@ -2,4 +2,3 @@ streamlit
 pillow
 gradio_client
 numpy
-base64
