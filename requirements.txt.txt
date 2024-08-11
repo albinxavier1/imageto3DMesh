@@ -1,6 +1,0 @@
-streamlit==1.25.0
-Pillow==10.0.0
-gradio_client==0.1.7
-tempfile==1.0.0
-numpy==1.24.3
-base64
