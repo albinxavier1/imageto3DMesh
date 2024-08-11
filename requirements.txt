@@ -1,6 +1,5 @@
 streamlit
 pillow
 gradio_client
-tempfile
 numpy
 base64
